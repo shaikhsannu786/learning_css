@@ -1,0 +1,33 @@
+.box{
+    width: 200px;
+    height:150px;
+    border: 2px solid red;
+    padding: 10px;
+    background-color: aqua;
+    margin-bottom:20px;
+}
+.box_static{
+    position: static;
+    /*left: 200px;*/
+}
+.box_relative{
+    position: relative;
+    left: 150;
+    top: 10px;
+    
+}
+.box_abs{
+    position: absolute;
+    left: 300px;
+    top: 40px;
+}
+.box_sticky{
+    position: sticky;
+    top: 10px;
+
+}
+.box_fixed{
+    position: fixed;
+    right: 10px;
+    bottom: 0px;
+}
