@@ -1,0 +1,31 @@
+.b_properties1{
+    border: 6px solid blue;
+}
+
+.b_properties2{
+    border: 6px dashed red;
+}
+.b_properties3{
+    border: 6px dotted purple;
+}
+.b_properties4{
+    border: 6px double yellow;
+}
+.b_properties5{
+    border: 6px inset coral;
+}
+.b_properties6{
+    border: 6px outset palevioletred;
+}
+.b_properties7{
+    border: 30px groove yellow;
+    box-shadow:5px 7px 8px red ;
+}
+.b_properties8{
+    border: 30px solid red;
+    /*border-top-color: blueviolet;*/
+   /* border-top-color: aqua pink aqua pink;*/
+   /* border-radius: 50%; */
+   /* border-top-left-radius: 60px;*/
+   /* border-radius: 60px 100px 60px 100px;*/
+}
