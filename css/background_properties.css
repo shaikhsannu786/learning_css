@@ -1,0 +1,10 @@
+.bg_img{
+    background-color: black;
+    background-image: url("/images/panda.jpg");
+    background-repeat:no-repeat ;
+    /*background-size: contain;*/
+    background-size:cover ;
+}
+.h1_color{
+    color: red;
+}
