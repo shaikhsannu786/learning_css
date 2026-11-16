@@ -1,0 +1,32 @@
+ul{
+    width:200px;
+    padding: 10px;
+    list-style-type:none;
+    font-weight: 900;
+
+}
+li{
+    padding: 10px;
+    border:2px solid red;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+li:nth-child(odd){
+    background-color: yellow;
+}
+li:nth-child(even){
+    background-color: blueviolet;
+    color:aliceblue;
+}
+li:first-child{
+    background-color:burlywood;
+}
+li:last-child{
+    background-color: black;
+}
+li:nth-child(4){
+    background-color: blue;
+}
+li:nth-child(5){
+    background: color #bd6e01;
+}
